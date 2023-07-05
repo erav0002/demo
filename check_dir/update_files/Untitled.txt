@@ -1,3 +1,0 @@
-- What are the principle differences between GDW base tables and ADA Silver Layer tables? 
-- Where can we find the latest version Erwin Data model and a dictionary of GDW base tables with specifications?
-- Is the GDW mapping document provided from the most recent iteration, ensuring that it accurately reflects the latest updates and revisions?
